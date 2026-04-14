@@ -1,0 +1,7 @@
+{
+  "mappings": [
+    "/content/modernization/:/",
+    "/content/modernization/metadata:/metadata.json",
+    "/content/modernization/configuration:/.helix/config.json"
+  ]
+}
